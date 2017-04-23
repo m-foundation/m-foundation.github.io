@@ -23,6 +23,10 @@ p.small {
     font-size: 16px;
 }
 
+#trustees.li {
+    font-size: 20px;
+}
+
 a,
 a:hover,
 a:focus,
@@ -193,6 +197,11 @@ header .intro-text .motto {
 .about {
     max-width: 768px;
     text-align: center;
+    align-content: center;
+}
+
+.projects {
+    max-width: 768px;
     align-content: center;
 }
 
@@ -370,4 +379,19 @@ footer .footer-below {
 #trustees.img {
     text-align: center;
     align-content: center;
+}
+
+#beneficiaries.img {
+    text-align: center;
+    align-content: center;
+}
+
+
+.comment {
+    font-size: 15px;
+    color: #d79763;
+}
+
+#projects.li{
+    font-size: 12px;
 }
